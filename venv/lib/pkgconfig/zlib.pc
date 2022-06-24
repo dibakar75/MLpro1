@@ -1,0 +1,13 @@
+prefix=/Users/dibakardeb/Documents/GitHub/MLpro1/venv
+exec_prefix=/Users/dibakardeb/Documents/GitHub/MLpro1/venv
+libdir=/Users/dibakardeb/Documents/GitHub/MLpro1/venv/lib
+sharedlibdir=/Users/dibakardeb/Documents/GitHub/MLpro1/venv/lib
+includedir=/Users/dibakardeb/Documents/GitHub/MLpro1/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.12
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
