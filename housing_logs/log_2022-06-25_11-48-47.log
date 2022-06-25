@@ -1,0 +1,4 @@
+[2022-06-25 11:48:48,001] werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2022-06-25 11:48:48,035] werkzeug - INFO -  * Restarting with fsevents reloader
+[2022-06-25 13:16:38,892] werkzeug - INFO -  * Restarting with fsevents reloader
+[2022-06-25 13:18:37,671] werkzeug - INFO -  * Restarting with fsevents reloader
